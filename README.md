@@ -25,7 +25,7 @@
 
 [<img align="left" alt="martimartineez | LinkedIn" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>][linkedin]
 [<img align="left" alt="martimartineez | Instagram" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
-[<img align="left" alt="martimartineez | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+[<img align="left" alt="martimartineez | Spotify" height="30px" src="https://gist.github.com/ossoa/1832034" />][Spotify]
 
 <br />
 

@@ -11,7 +11,7 @@
 ---
 
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=martimartineez&repo=martimartineez&countColorcountColor&countColor=%237B1E7B"/>
+
 
 ### contactame 📝
 

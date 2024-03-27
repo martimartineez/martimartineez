@@ -31,7 +31,7 @@
 ### Spotify Playing 🎧
 
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=hntqme6aln21xygk3s92jwbx6)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=hntqme6aln21xygk3s92jwbx6)(https://open.spotify.com/user/hntqme6aln21xygk3s92jwbx6)
 
 
 

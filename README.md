@@ -31,7 +31,7 @@
 ### Spotify Playing 🎧
 
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=hntqme6aln21xygk3s92jwbx6&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=hntqme6aln21xygk3s92jwbx6&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)]]
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=hntqme6aln21xygk3s92jwbx6)
 
 
 

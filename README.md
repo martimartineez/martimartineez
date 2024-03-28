@@ -17,9 +17,9 @@
 
 
 [<img align="left" alt="martimartineez | LinkedIn" width="50" height="50px" src="https://github.com/martimartineez/martimartineez/blob/main/linkdin.gif"/>][linkedin]
-[<img align="left" alt="martimartineez | Spotify"  width="70" height="70px" src="https://github.com/martimartineez/martimartineez/blob/main/Spotify.gif" />][Spotify]
-[<img align="left" alt="martimartineez | Steam"  width="50" height="50px" src="https://user-images.githubusercontent.com/89815843/155883457-48dbabf2-b528-430b-b83d-536499d7f562.png" />][Steam]
 [<img align="left" alt="martimartineez | Instagram" width="50" height="50px" src="https://github.com/martimartineez/martimartineez/blob/main/instagram.gif" />][instagram]
+[<img align="left" alt="martimartineez | Spotify"  width="50" height="50px" src="https://github.com/martimartineez/martimartineez/blob/main/Spotify.gif" />][Spotify]
+[<img align="left" alt="martimartineez | Steam"  width="50" height="50px" src="https://user-images.githubusercontent.com/89815843/155883457-48dbabf2-b528-430b-b83d-536499d7f562.png" />][Steam]
 
 
 <br />

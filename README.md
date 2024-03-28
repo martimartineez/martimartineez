@@ -13,7 +13,7 @@
 
 
 
-### Redes📝
+### Redes<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
 
 
 [<img align="left" alt="martimartineez | LinkedIn" height="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>][linkedin]
@@ -30,9 +30,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/calm/1-repos-per-language.svg)
-
----
 
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />

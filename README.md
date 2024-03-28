@@ -38,7 +38,7 @@
 
 [<img align="left" alt="martimartineez | LinkedIn" width="45" height="45px" src="https://github.com/martimartineez/martimartineez/blob/main/linkdin.gif"/>][linkedin]
 [<img align="left" alt="martimartineez | Instagram" width="50" height="50px" src="https://github.com/martimartineez/martimartineez/blob/main/Instagram.gif" />][instagram]
-[<img align="left" alt="martimartineez | Instagram" width="40" height="40px" src="https://cdn.rawgit.com/NNTin/discord-logo/f4333344/src/assets/animateddiscord.svg" />][instagram]
+[<img align="left" alt="martimartineez | Instagram" width="40" height="40px" src="https://cdn.rawgit.com/NNTin/discord-logo/f4333344/src/assets/animateddiscord.svg" />][discord]
 
 
 
@@ -58,6 +58,6 @@
 [linkedin]: https://www.linkedin.com/in/martimartineez/
 [Spotify]: https://open.spotify.com/user/hntqme6aln21xygk3s92jwbx6?si=749202fc8f0b4213
 [Steam]: https://steamcommunity.com/id/martimartineez/
-
+[discord]:https://discordapp.com/users/544732060556722180
 
 

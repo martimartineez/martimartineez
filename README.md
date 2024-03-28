@@ -13,13 +13,6 @@
 
 
 
-### Redes<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
-
-
-[<img align="left" alt="martimartineez | LinkedIn" width="45" height="45px" src="https://github.com/martimartineez/martimartineez/blob/main/linkdin.gif"/>][linkedin]
-[<img align="left" alt="martimartineez | Instagram" width="50" height="50px" src="https://github.com/martimartineez/martimartineez/blob/main/Instagram.gif" />][instagram]
-[<img align="left" alt="martimartineez | Spotify"  width="40" height="40px" src="https://github.com/martimartineez/martimartineez/blob/main/Spotify.gif" />][Spotify]
-[<img align="left" alt="martimartineez | Steam"  width="50" height="50px" src="https://github.com/martimartineez/martimartineez/blob/main/Steam.gif" />][Steam]
 
 
 <br />
@@ -41,6 +34,15 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hntqme6aln21xygk3s92jwbx6&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=hntqme6aln21xygk3s92jwbx6&redirect=true)
 
 
+---
+
+### Redes<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
+
+
+[<img align="left" alt="martimartineez | LinkedIn" width="45" height="45px" src="https://github.com/martimartineez/martimartineez/blob/main/linkdin.gif"/>][linkedin]
+[<img align="left" alt="martimartineez | Instagram" width="50" height="50px" src="https://github.com/martimartineez/martimartineez/blob/main/Instagram.gif" />][instagram]
+[<img align="left" alt="martimartineez | Spotify"  width="40" height="40px" src="https://github.com/martimartineez/martimartineez/blob/main/Spotify.gif" />][Spotify]
+[<img align="left" alt="martimartineez | Steam"  width="50" height="50px" src="https://github.com/martimartineez/martimartineez/blob/main/Steam.gif" />][Steam]
 
 
 

@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21">Hola soy Martin Martinez
 
-<a href="https://gifyu.com/image/SVdsV"><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<a href="https://es.wikipedia.org/wiki/GitHub"><img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## Soy estudiante de ATIC y Licenciatura en Informatica   
 

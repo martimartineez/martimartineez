@@ -111,7 +111,7 @@
 <br />
 
 
-<a href="https://es.wikipedia.org/wiki/Super_Mario_Bros._3"><img src="https://github.com/martimartineez/martimartineez/blob/main/2d-mario-running.gif" width="30"></a><a href="https://es.wikipedia.org/wiki/Sonic_the_Hedgehog_(videojuego_de_1991)"><img src="https://github.com/martimartineez/martimartineez/blob/main/sonic-the-hedgehog-prey-fnf.gif" width="30"></a><a href="https://es.wikipedia.org/wiki/Pok%C3%A9mon_diamante_y_Pok%C3%A9mon_perla"><img src="https://github.com/martimartineez/martimartineez/blob/main/dialga.gif" width="30">
+<a href="https://es.wikipedia.org/wiki/Crash_Bandicoot_(videojuego)"><img src="https://github.com/martimartineez/martimartineez/blob/main/crash.gif" width="30"><a href="https://es.wikipedia.org/wiki/Super_Mario_Bros._3"><img src="https://github.com/martimartineez/martimartineez/blob/main/2d-mario-running.gif" width="30"></a><a href="https://es.wikipedia.org/wiki/Sonic_the_Hedgehog_(videojuego_de_1991)"><img src="https://github.com/martimartineez/martimartineez/blob/main/sonic-the-hedgehog-prey-fnf.gif" width="30"></a><a href="https://es.wikipedia.org/wiki/Pok%C3%A9mon_diamante_y_Pok%C3%A9mon_perla"><img src="https://github.com/martimartineez/martimartineez/blob/main/dialga.gif" width="30">
 
 
 

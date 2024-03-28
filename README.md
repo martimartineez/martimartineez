@@ -50,7 +50,7 @@
 
 
 
-<img  alt="GIF" height="160px" src="https://tenor.com/es/view/2d-mario-running-gif-5930085643515150510" />
+
 
 
 

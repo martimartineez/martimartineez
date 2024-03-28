@@ -26,8 +26,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martimartineez&show_icons=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martimartineez&show_icons=true&theme=algolia)
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />

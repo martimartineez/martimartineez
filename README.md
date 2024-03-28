@@ -30,7 +30,7 @@
 
 ---
 
-https://pixel-profile.vercel.app/api/github-stats?username=martimartineez&theme=summer
+![Anurag's GitHub stats](https://pixel-profile.vercel.app/api/github-stats?username=martimartineez&theme=summer)
 
 ---
 

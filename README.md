@@ -5,7 +5,7 @@
 ## Soy estudiante de ATIC y Licenciatura en Informatica   
 
 - <a href="https://gifyu.com/image/SVdsV"><img src="https://github.com/martimartineez/martimartineez/blob/main/penguin.gif" width="30"></a> Estoy estudiando ATIC y la licenciatura en informatica en la Universidad Nacional de La Plata
-- <a href="https://gifyu.com/image/SVdNO"><img src="https://github.com/martimartineez/martimartineez/blob/main/hyperkitty.gif" width="30" height="30">"                                     "</a> Me gusta todo lo relacionado a la tecnologia y los jueguitos 
+- <a href="https://gifyu.com/image/SVdNO"><img src="https://github.com/martimartineez/martimartineez/blob/main/hyperkitty.gif" width="30" height="30"></a> Me gusta todo lo relacionado a la tecnologia y los jueguitos 
 
 
 
@@ -49,7 +49,7 @@
 <br />
 
 
-<a href="https://gifyu.com/image/SVdsV"><img src="https://github.com/martimartineez/martimartineez/blob/main/2d-mario-running.gif" width="30"></a><a href="https://gifyu.com/image/SVdsV"><img src="https://github.com/martimartineez/martimartineez/blob/main/sonic-the-hedgehog-prey-fnf.gif" width="30"></a>
+<a href="https://gifyu.com/image/SVdsV"><img src="https://github.com/martimartineez/martimartineez/blob/main/2d-mario-running.gif" width="30">#                         #</a><a href="https://gifyu.com/image/SVdsV"><img src="https://github.com/martimartineez/martimartineez/blob/main/sonic-the-hedgehog-prey-fnf.gif" width="30"></a>
 
 
 

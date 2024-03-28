@@ -49,7 +49,7 @@
 <br />
 
 
-<a href="https://es.wikipedia.org/wiki/Super_Mario_Bros._3"><img src="https://github.com/martimartineez/martimartineez/blob/main/2d-mario-running.gif" width="30"></a><a href="https://gifyu.com/image/SVdsV"><img src="https://github.com/martimartineez/martimartineez/blob/main/sonic-the-hedgehog-prey-fnf.gif" width="30"></a>
+<a href="https://es.wikipedia.org/wiki/Super_Mario_Bros._3"><img src="https://github.com/martimartineez/martimartineez/blob/main/2d-mario-running.gif" width="30"></a><a href="https://es.wikipedia.org/wiki/Sonic_the_Hedgehog_(videojuego_de_1991)"><img src="https://github.com/martimartineez/martimartineez/blob/main/sonic-the-hedgehog-prey-fnf.gif" width="30"></a>
 
 
 

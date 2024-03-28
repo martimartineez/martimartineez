@@ -4,7 +4,7 @@
 
 ## Soy estudiante de ATIC y Licenciatura en Informatica   
 
-- <a href="https://gifyu.com/image/SVdsV"><img src="https://github.com/martimartineez/martimartineez/blob/main/penguin.gif" width="60"></a> Estoy estudiando ATIC y la licenciatura en informatica en la Universidad Nacional de La Plata
+- <a href="https://gifyu.com/image/SVdsV"><img src="https://github.com/martimartineez/martimartineez/blob/main/penguin.gif" width="30"></a> Estoy estudiando ATIC y la licenciatura en informatica en la Universidad Nacional de La Plata
 - 📚 Me gusta todo lo relacionado a la tecnologia y los jueguitos 🎮
 
 

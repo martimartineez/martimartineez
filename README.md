@@ -5,7 +5,7 @@
 ## Soy estudiante de ATIC y Licenciatura en Informatica   
 
 - <a href="https://gifyu.com/image/SVdsV"><img src="https://github.com/martimartineez/martimartineez/blob/main/penguin.gif" width="30"></a> Estoy estudiando ATIC y la licenciatura en informatica en la Universidad Nacional de La Plata
-- <iframe src="https://giphy.com/embed/5YpDAIRBS2xJMBoF2p" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/primegaming-amazon-prime-gaming-5YpDAIRBS2xJMBoF2p">via GIPHY</a></p> width="60"></a> Me gusta todo lo relacionado a la tecnologia y los jueguitos 🎮
+- <iframe src="https://giphy.com/embed/5YpDAIRBS2xJMBoF2p" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/primegaming-amazon-prime-gaming-5YpDAIRBS2xJMBoF2p">via GIPHY</a></p> Me gusta todo lo relacionado a la tecnologia y los jueguitos 🎮
 
 
 ---

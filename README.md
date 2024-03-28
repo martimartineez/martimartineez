@@ -25,7 +25,9 @@
 <br />
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martimartinez&theme=dark&hide=jupyter%20notebook,vue)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martimartineeza&show_icons=true)
+
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />

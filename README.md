@@ -4,7 +4,7 @@
 
 ## Soy estudiante de ATIC y Licenciatura en Informatica   
 
-- <img src="https://gifyu.com/image/Zy2O" width="21"> Estoy estudiando ATIC y la licenciatura en informatica en la Universidad Nacional de La Plata
+- <a href="https://gifyu.com/image/Zy2f"><img src="https://gifyu.com/image/Zy2O" width="60"></a> Estoy estudiando ATIC y la licenciatura en informatica en la Universidad Nacional de La Plata
 - 📚 Me gusta todo lo relacionado a la tecnologia y los jueguitos 🎮
 
 

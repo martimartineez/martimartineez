@@ -38,6 +38,7 @@
 
 [<img align="left" alt="martimartineez | LinkedIn" width="45" height="45px" src="https://github.com/martimartineez/martimartineez/blob/main/linkdin.gif"/>][linkedin]
 [<img align="left" alt="martimartineez | Instagram" width="50" height="50px" src="https://github.com/martimartineez/martimartineez/blob/main/Instagram.gif" />][instagram]
+[<img align="left" alt="martimartineez | Instagram" width="50" height="50px" src="https://cdn.rawgit.com/NNTin/discord-logo/f4333344/src/assets/animateddiscord.svg" />][instagram]
 
 
 

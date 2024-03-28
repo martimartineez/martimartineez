@@ -43,10 +43,13 @@
 [<img align="left" alt="martimartineez | Spotify"  width="40" height="40px" src="https://github.com/martimartineez/martimartineez/blob/main/Spotify.gif" />][Spotify]
 [<img align="left" alt="martimartineez | Steam"  width="50" height="50px" src="https://github.com/martimartineez/martimartineez/blob/main/Steam.gif" />][Steam]
 
+
+<br />
+<br />
+<br />
+
 ---
-<br />
-<br />
-<br />
+
 <br />
 <br />
 <br />

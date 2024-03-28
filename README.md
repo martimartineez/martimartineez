@@ -19,7 +19,7 @@
 [<img align="left" alt="martimartineez | LinkedIn" width="50" height="50px" src="https://github.com/martimartineez/martimartineez/blob/main/linkdin.gif"/>][linkedin]
 [<img align="left" alt="martimartineez | Instagram" width="50" height="50px" src="https://github.com/martimartineez/martimartineez/blob/main/Instagram.gif" />][instagram]
 [<img align="left" alt="martimartineez | Spotify"  width="50" height="50px" src="https://github.com/martimartineez/martimartineez/blob/main/Spotify.gif" />][Spotify]
-[<img align="left" alt="martimartineez | Steam"  width="50" height="50px" src="https://github.com/martimartineez/martimartineez/blob/main/steam.gif" />][Steam]
+[<img align="left" alt="martimartineez | Steam"  width="50" height="50px" src="https://github.com/martimartineez/martimartineez/blob/main/Steam.gif" />][Steam]
 
 
 <br />

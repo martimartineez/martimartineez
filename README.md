@@ -19,7 +19,7 @@
 ---
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martimartineez&layout=compact&theme=algolia&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martimartineez&layout=compact&theme=shadow_green&hide=html)
 
 
 

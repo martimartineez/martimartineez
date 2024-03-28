@@ -30,7 +30,7 @@
 
 ---
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={martimartineez}&theme={calm}
+https://pixel-profile.vercel.app/api/github-stats?username=martimartineez&theme=summer
 
 ---
 

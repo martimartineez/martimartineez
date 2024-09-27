@@ -24,7 +24,7 @@
 
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/261987860327038976?theme=dark&hideDiscrim=true&animated=true)](https://discord.com/users/544732060556722180)
+[![Discord Presence](https://lanyard.cnrad.dev/api/544732060556722180?theme=dark&hideDiscrim=true&animated=true)](https://discord.com/users/544732060556722180)
 
   </div>
 

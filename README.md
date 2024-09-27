@@ -24,9 +24,6 @@
 
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/544732060556722180)](https://discord.com/users/544732060556722180)
-
-  </div>
 
 
 

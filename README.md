@@ -35,7 +35,7 @@
 - [Proyecto Code](https://github.com/martimartineez/proyecto-code) - Proyecto desarrollado durante la materia Proyecto de Software.
 - [Página Club360](https://github.com/martimartineez/paginaclub360) - Sitio web desarrollado para Club360.
 - [Tetris](https://github.com/martimartineez/tetrisn-t) - Juego de Tetris desarrollado con HTML, CSS y JavaScript.
-- [RastrosGame](https://github.com/martimartineez/RastrosGame) - Novela visual desarrollada en Python con Ren'Py junto a un compañero.  [Ver sitio](https://juegosarg.itch.io/rastros)
+- [RastrosGame](https://github.com/martimartineez/RastrosGame) - Novela visual desarrollada en Python con Ren'Py junto a un compañero.  [Jugar](https://juegosarg.itch.io/rastros)
 
 
 ---

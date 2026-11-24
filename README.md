@@ -37,7 +37,7 @@
 
 ---
 
-### Redes<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
+### Redes<img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
 
 
 [<img align="left" alt="martimartineez | LinkedIn" width="45" height="45px" src="https://github.com/martimartineez/martimartineez/blob/main/linkdin.gif"/>][linkedin]

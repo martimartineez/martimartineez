@@ -35,7 +35,7 @@
 - [Proyecto Code](https://github.com/martimartineez/proyecto-code) - Proyecto desarrollado durante la materia Proyecto de Software.
 - [Página Club360](https://github.com/martimartineez/paginaclub360) - Sitio web desarrollado para Club360.
 - [Tetris](https://github.com/martimartineez/tetrisn-t) - Juego de Tetris desarrollado con HTML, CSS y JavaScript.
-- [Calculadora](https://github.com/martimartineez/calculadora) - Calculadora de escritorio desarrollada en Python.
+
 
 ---
 
